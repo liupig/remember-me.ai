@@ -26,7 +26,7 @@ AI 的可拓展性远远超过人脑进化的速度。AI 发展成为人类无�
 
 YouDub-webui 的前身，命令行版本。这是最早的想法原型——用 AI 让好内容跨越语言的障碍。
 
-### [bili-arena](https://github.com/liuzhao1225/bili-arena)
+### [bili-arena](https://github.com/liuzhao1225/bili-arena) | [在线体验](https://bili-arena.xiaoke.ai/)
 
 B 站视频 PK 排名平台。用微软 TrueSkill 算法对 Bilibili 视频进行公正排名。Next.js + Supabase + Vercel。
 
