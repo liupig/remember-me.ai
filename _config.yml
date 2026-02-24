@@ -1,0 +1,15 @@
+title: remember-me.ai
+description: "真正的死亡不是肉身的终结，而是被彻底遗忘。"
+baseurl: /remember-me.ai
+url: https://liuzhao1225.github.io
+markdown: kramdown
+kramdown:
+  input: GFM
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - node_modules
+  - .cursor
+  - .venv

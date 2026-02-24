@@ -3,3 +3,7 @@ Thumbs.db
 *.swp
 *.swo
 *~
+_site/
+.jekyll-cache/
+.bundle/
+vendor/

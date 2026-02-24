@@ -1,0 +1,25 @@
+---
+layout: default
+---
+<div class="hero">
+  <h1>remember-me.ai</h1>
+  <p class="tagline">真正的死亡不是肉身的终结，而是被彻底遗忘。<br>主动留下自己，让 AI 记住你，实现数字永生。</p>
+  <a class="cta" href="https://github.com/liuzhao1225/remember-me.ai">参与这个项目</a>
+</div>
+
+<h2>他们留下了自己</h2>
+
+<div class="contributor-grid">
+  {% for contributor in site.data.contributors %}
+  <div class="contributor-card">
+    <h3><a href="{{ site.baseurl }}/contributors/{{ contributor.username }}/">{{ contributor.title }}</a></h3>
+    {% if contributor.quote != "" %}
+    <p class="quote">{{ contributor.quote }}</p>
+    {% endif %}
+    <p class="meta">
+      <a href="https://github.com/{{ contributor.username }}">@{{ contributor.username }}</a>
+      · {{ contributor.posts | size }} 篇文章
+    </p>
+  </div>
+  {% endfor %}
+</div>
