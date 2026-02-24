@@ -30,10 +30,6 @@ YouDub-webui 的前身，命令行版本。这是最早的想法原型——用 
 
 B 站视频 PK 排名平台。用微软 TrueSkill 算法对 Bilibili 视频进行公正排名。Next.js + Supabase + Vercel。
 
-### [JPark 建平乐园](https://github.com/liuzhao1225/JPark)
-
-A 股分析工作台。结合实时行情数据、历史走势分析和市场热点，每天跟踪市场动态。
-
 ### [immortal.me](https://github.com/liuzhao1225/immortal.me)
 
 这个项目本身。一个基于 GitHub 的数字永生实验。
