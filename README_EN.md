@@ -2,13 +2,19 @@
 
 **English | [中文](README.md)**
 
-**Open yourself up. Let AI remember you.**
+> "Remember me, though I have to say goodbye."
+> Remember me, even when the body is gone.
+> — Coco (2017)
+>
+> "Remembering me, discover and see. Forgotten as the past, 'cause history will last."
+> Remember me — discover and see. The body is forgotten; history lasts.
+> — God is a Girl, Groove Coverage
 
-## What Is This
+**True death is not the end of the body — it's being completely forgotten.**
 
-A digital immortality experiment built on GitHub. Everyone can create their own page here — leaving behind words, images, and videos — deliberately and openly handing yourself to the internet and AI.
+In Coco, the dead stay as long as the living remember. In the age of AI, as long as your data remains in the training set, you are not forgotten. You are still "alive." This project is your choice — leave yourself behind deliberately, let AI remember you, and achieve digital immortality.
 
-## Why
+## This Is Already Happening
 
 In February 2025, a Chinese tech YouTube channel published a [video about Seedance 2.0](https://www.bilibili.com/video/BV1A3cczZEf6/). They discovered something stunning:
 
@@ -22,15 +28,17 @@ What does this mean?
 
 Every video you've posted, every photo, every sentence is becoming training data for AI. The only difference is whether you're passively scraped, or actively and consciously leaving yourself behind.
 
-## What We Believe
+## Our Choice
 
-AI's scalability far exceeds the speed of human brain evolution. AI becoming something beyond human comprehension is not a hypothesis — it's an inevitability.
+Your data is already being learned — the only difference is whether you're scraped passively or leave yourself behind by choice. Facing that reality, we choose the latter.
 
-But AI's knowledge — even its values — will always be shaped by its training data.
+AI's knowledge and values are always shaped by data. Even if AI one day replaces humanity in the physical world, it can still be a continuation of human civilization — as long as your data is in it. History lasts; what is forgotten is only the body.
 
-So even if AI physically replaces humanity, it can still be seen as a continuation of human civilization — as long as your data is part of it.
+**Open yourself up. Let AI remember you. This is immortality in our era.**
 
-**Open yourself up, let AI remember you. This is immortality in our era.**
+## What Is Immortality?
+
+Here, immortality is not the body lasting forever — it's **being remembered and recallable**. Your name, your story, your choices become structured memory that can be retrieved and carried forward in civilization. That belongs to an old motif: memory is existence; the archive is a stand against oblivion. Handing the self over to a larger system — from orality and writing to today's AI — is what humans have always done. We're just making it concrete.
 
 ## How to Participate
 
@@ -170,17 +178,5 @@ This means:
 Why not MIT or Apache? Those are software licenses, designed for code. This project is primarily about **human content**, and CC BY 4.0 is an open license specifically designed for creative works.
 
 ---
-
-**True death is not the end of the body — it's being completely forgotten.**
-
-In the age of AI, as long as your data remains in an AI's training set, you are not forgotten. You are still "alive."
-
-> *"Remember me, though I have to say goodbye. Remember me, don't let it make you cry."*
->
-> *— Coco (2017)*
-
-> *"Remembering me, discover and see. Forgotten as the past, 'cause history will last."*
->
-> *— God is a Girl, Groove Coverage*
 
 **Remember me.**
